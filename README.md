@@ -1,45 +1,43 @@
 # Hi, I'm Ryan Law
 
-I'm an aspiring mechanical engineering student focused on robotics, drones, mechanical design, fabrication, and mechatronics. I like building projects that combine CAD, hardware, software, and testing into real working systems.
+I'm an aspiring mechanical engineering student interested in mechanical design, robotics, fabrication, aerodynamics, and mechatronics. I enjoy building projects that combine CAD, prototyping, hardware, software, and testing into real working systems.
 
-## Featured Project
+## Engineering Focus Areas
 
-### Autonomous Drone Payload Drop System
-
-I'm currently working on a UAS package drop system for a drone competition. The project uses a DJI Android app, GPS-based drop targeting, Bluetooth communication, and an ESP32-controlled servo release mechanism.
-
-My current work includes:
-
-- Building a custom payload drop mission screen in a DJI Android app
-- Creating GPS-based drop targeting using latitude, longitude, and altitude inputs
-- Sending a Bluetooth `DROP` command from the Android app to an ESP32
-- Supporting the design of a servo-based release mechanism for package delivery
-
-**Tools:** Java, DJI Mobile SDK, ESP32, Bluetooth, SolidWorks, 3D printing, Git/GitHub
-
-## Engineering Background
-
-- Incoming transfer student in Mechanical Engineering
-- Experience with robotics, CAD, fabrication, embedded systems, and engineering analysis
-- Team Captain for a collegiate VEX Robotics team
-- Experience with microfabrication, cleanroom processing, and aerodynamic testing
-
-## Engineering Interests
-
-- Mechanical design
-- Robotics and mechatronics
-- Drone and UAS systems
-- CAD and prototyping
-- Embedded systems
+- Mechanical design and CAD modeling
+- Robotics and electromechanical systems
+- Prototyping and fabrication
 - Aerodynamics and experimental testing
-- MATLAB and engineering analysis
+- Embedded systems and controls
+- Microfabrication and process development
+
+## Current Work
+
+I'm currently building my engineering portfolio around hands-on projects involving robotics, CAD design, fabrication, aerodynamic testing, and embedded systems. My work includes collegiate VEX Robotics, RC vehicle aerodynamics, cleanroom microfabrication, Raspberry Pi/ESP32 projects, and a UAS payload drop competition project.
+
+## Featured Project Areas
+
+### Mechanical Design and Robotics
+I have experience leading mechanical design work for a collegiate VEX Robotics team, using SolidWorks and Fusion 360 for subsystem design, prototyping, and competition preparation.
+
+### Aerodynamics and Testing
+I have worked on RC vehicle aerodynamics and vehicle-mounted aerodynamic testing, using CAD, 3D-printed components, sensors, and MATLAB-based data analysis.
+
+### Fabrication and Product Design
+I have designed and fabricated mechanical projects including a folding knife with a back lock mechanism, focusing on tolerances, load paths, material behavior, and functional reliability.
+
+### Embedded Systems and Mechatronics
+I have worked with ESP32, Raspberry Pi, sensors, MATLAB, Python, Java, and Arduino to connect physical systems with software control.
+
+### UAS and Drone Systems
+I am currently contributing to a drone payload drop competition project involving GPS-based drop targeting, Bluetooth communication, ESP32 integration, and a purchased servo-based release mechanism.
 
 ## Tools and Skills
 
 **CAD / Design:** SolidWorks, Fusion 360  
 **Programming:** MATLAB, Python, Java, Arduino  
-**Hardware:** ESP32, Raspberry Pi, sensors, 3D printing, laser cutting  
-**Engineering Areas:** Robotics, UAS, aerodynamics, mechatronics, microfabrication
+**Hardware / Fabrication:** ESP32, Raspberry Pi, sensors, 3D printing, laser cutting  
+**Engineering Areas:** Robotics, UAS, aerodynamics, mechatronics, microfabrication, experimental testing  
 
 ## Engineering Portfolio
 
@@ -49,4 +47,4 @@ Check out my full engineering portfolio here:
 
 ## What I'm Building Toward
 
-My goal is to become a stronger mechanical engineer by building projects that connect mechanical design, electronics, and software into real working systems.
+My goal is to become a stronger mechanical engineer by building projects that connect mechanical design, electronics, and software into practical, tested systems.
