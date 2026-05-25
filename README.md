@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ryan Law
 
-<!--
-**poopylaw/poopylaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring mechanical engineering student interested in robotics, drones, autonomous systems, and hands-on design.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on an autonomous drone payload drop system using a DJI Android app, GPS-based drop targeting, Bluetooth communication, and an ESP32-controlled servo release mechanism.
+
+## Engineering Interests
+
+- Mechanical design
+- Robotics and mechatronics
+- Drone systems
+- CAD and prototyping
+- Embedded systems
+- MATLAB and engineering analysis
+- Java, C++, and microcontroller programming
+
+## Featured Portfolio
+
+Check out my engineering portfolio here:
+
+[Engineering Portfolio](https://github.com/poopylaw/Engineering-portfolio)
+
+## What I'm Building Toward
+
+My goal is to become a stronger mechanical engineer by building projects that connect mechanical design, electronics, and software into real working systems.
