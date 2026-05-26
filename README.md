@@ -6,7 +6,7 @@ Mechanical engineering transfer student focused on design, fabrication, robotics
 
 Check out my full engineering portfolio here:
 
-[View Engineering Portfolio](PASTE-YOUR-PORTFOLIO-LINK-HERE)
+[View Engineering Portfolio](https://ryan-law-portfolio.vercel.app)
 
 ## About Me
 
