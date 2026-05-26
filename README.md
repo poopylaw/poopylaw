@@ -1,50 +1,68 @@
-# Hi, I'm Ryan Law
+# Ryan Law Engineering Portfolio
 
-I'm an aspiring mechanical engineering student interested in mechanical design, robotics, fabrication, aerodynamics, and mechatronics. I enjoy building projects that combine CAD, prototyping, hardware, software, and testing into real working systems.
+This is my personal mechanical engineering portfolio website. It highlights my engineering experience, technical projects, resume, and hands-on work in mechanical design, robotics, fabrication, embedded systems, and microfabrication.
 
-## Engineering Focus Areas
+## Live Portfolio
 
-- Mechanical design and CAD modeling
-- Robotics and electromechanical systems
-- Prototyping and fabrication
-- Aerodynamics and experimental testing
-- Embedded systems and controls
-- Microfabrication and process development
+Coming soon.
 
-## Current Work
+## About Me
 
-I'm currently building my engineering portfolio around hands-on projects involving robotics, CAD design, fabrication, aerodynamic testing, and embedded systems. My work includes collegiate VEX Robotics, RC vehicle aerodynamics, cleanroom microfabrication, Raspberry Pi/ESP32 projects, and a UAS payload drop competition project.
+I am a mechanical engineering transfer student focused on design, fabrication, robotics, embedded systems, and experimental testing. My work combines CAD, coding, prototyping, and engineering analysis to create practical, tested systems.
 
-## Featured Project Areas
+## Featured Experience
 
-### Mechanical Design and Robotics
-I have experience leading mechanical design work for a collegiate VEX Robotics team, using SolidWorks and Fusion 360 for subsystem design, prototyping, and competition preparation.
+- **UCLA CNSI Microfabrication and Nanopatterning Program**  
+  Cleanroom fabrication experience using photolithography, thin-film deposition, wet etching, electron-beam lithography, microscopy, and process optimization.
 
-### Aerodynamics and Testing
-I have worked on RC vehicle aerodynamics and vehicle-mounted aerodynamic testing, using CAD, 3D-printed components, sensors, and MATLAB-based data analysis.
+- **Mt. SAC VEX Robotics Team Captain**  
+  Led mechanical design, CAD development, prototyping, fabrication planning, team workflow, and subsystem integration for a collegiate VEX Robotics team.
 
-### Fabrication and Product Design
-I have designed and fabricated mechanical projects including a folding knife with a back lock mechanism, focusing on tolerances, load paths, material behavior, and functional reliability.
+## Featured Projects
 
-### Embedded Systems and Mechatronics
-I have worked with ESP32, Raspberry Pi, sensors, MATLAB, Python, Java, and Arduino to connect physical systems with software control.
+- **RC Vehicle Aerodynamics Testing & Optimization**  
+  Designed and built an RC car using SolidWorks, 3D-printed components, and an ESP32-based control system while applying aerodynamics concepts to improve stability and performance.
 
-### UAS and Drone Systems
-I am currently contributing to a drone payload drop competition project involving GPS-based drop targeting, Bluetooth communication, ESP32 integration, and a purchased servo-based release mechanism.
+- **BroncoHacks Posture Device**  
+  Built a posture-monitoring prototype using Python, Raspberry Pi, sensors, breadboarded circuitry, and a 3D-printed enclosure during a 48-hour hackathon.
+
+- **Folding Knife Design & Fabrication**  
+  Designed and fabricated a folding knife using Magnacut steel, SolidWorks, mechanical tolerancing, and a back lock mechanism.
+
+- **UAS Drone Competition Coding**  
+  Supported a UAS competition project through coding, system logic, testing, and subsystem integration.
+
+- **Raspberry Pi Sense HAT Controller**  
+  Developed a MATLAB-based control interface for a Raspberry Pi Sense HAT 8x8 LED matrix using joystick and accelerometer inputs.
 
 ## Tools and Skills
 
-**CAD / Design:** SolidWorks, Fusion 360  
-**Programming:** MATLAB, Python, Java, Arduino  
-**Hardware / Fabrication:** ESP32, Raspberry Pi, sensors, 3D printing, laser cutting  
-**Engineering Areas:** Robotics, UAS, aerodynamics, mechatronics, microfabrication, experimental testing  
+**Programming:** MATLAB, Python, Arduino, ESP32 programming  
+**CAD / Design:** SolidWorks, Fusion 360, mechanical design, subsystem integration  
+**Hardware / Fabrication:** Raspberry Pi, Sense HAT, sensors, 3D printing, laser cutting, cleanroom fabrication  
+**Engineering Areas:** Robotics, aerodynamics, mechatronics, embedded systems, microfabrication, experimental testing
 
-## Engineering Portfolio
+## Built With
 
-Check out my full engineering portfolio here:
+- Next.js
+- TypeScript
+- Tailwind CSS
+- GitHub
+- Vercel
 
-[Engineering Portfolio](https://github.com/poopylaw/Engineering-portfolio)
+## Project Structure
 
-## What I'm Building Toward
+```text
+app/
+├── page.tsx
+└── projects/
+    ├── ucla-cnsi/
+    ├── vex-robotics/
+    ├── rc-vehicle-aerodynamics/
+    ├── broncohacks-posture-device/
+    ├── folding-knife-design/
+    ├── uas-drone-coding/
+    └── raspberry-pi-sense-hat/
 
-My goal is to become a stronger mechanical engineer by building projects that connect mechanical design, electronics, and software into practical, tested systems.
+public/
+└── resume.pdf
