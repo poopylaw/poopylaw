@@ -1,76 +1,36 @@
-# Ryan Law Engineering Portfolio
+# Ryan Law
 
-This is my personal mechanical engineering portfolio website. It highlights my engineering experience, technical projects, resume, and hands-on work in mechanical design, robotics, fabrication, embedded systems, and microfabrication.
+Mechanical engineering transfer student focused on design, fabrication, robotics, embedded systems, and hands-on engineering projects.
 
-## Live Portfolio
+## Engineering Portfolio
 
-Coming soon.
+Check out my full engineering portfolio here:
+
+[View Engineering Portfolio](PASTE-YOUR-PORTFOLIO-LINK-HERE)
 
 ## About Me
 
-I am a mechanical engineering transfer student focused on design, fabrication, robotics, embedded systems, and experimental testing. My work combines CAD, coding, prototyping, and engineering analysis to create practical, tested systems.
+I am interested in mechanical design, robotics, fabrication, embedded systems, microfabrication, and experimental testing. My work combines CAD, coding, prototyping, and engineering analysis to build practical, tested systems.
 
 ## Featured Experience
 
-### UCLA CNSI Microfabrication and Nanopatterning Program
-
-Cleanroom fabrication experience using photolithography, thin-film deposition, wet etching, electron-beam lithography, microscopy, and process optimization.
-
-### Mt. SAC VEX Robotics Team Captain
-
-Led mechanical design, CAD development, prototyping, fabrication planning, team workflow, and subsystem integration for a collegiate VEX Robotics team.
+- UCLA CNSI Microfabrication and Nanopatterning Program
+- Mt. SAC VEX Robotics Team Captain
 
 ## Featured Projects
 
-### RC Vehicle Aerodynamics Testing & Optimization
-
-Designed and built an RC car using SolidWorks, 3D-printed components, and an ESP32-based control system while applying aerodynamics concepts to improve stability and performance.
-
-### BroncoHacks Posture Device
-
-Built a posture-monitoring prototype using Python, Raspberry Pi, sensors, breadboarded circuitry, and a 3D-printed enclosure during a 48-hour hackathon.
-
-### Folding Knife Design & Fabrication
-
-Designed and fabricated a folding knife using Magnacut steel, SolidWorks, mechanical tolerancing, and a back lock mechanism.
-
-### UAS Drone Competition Coding
-
-Supported a UAS competition project through coding, system logic, testing, and subsystem integration.
-
-### Raspberry Pi Sense HAT Controller
-
-Developed a MATLAB-based control interface for a Raspberry Pi Sense HAT 8x8 LED matrix using joystick and accelerometer inputs.
+- RC Vehicle Aerodynamics Testing & Optimization
+- BroncoHacks Posture Device
+- Folding Knife Design & Fabrication
+- UAS Drone Competition Coding
+- Raspberry Pi Sense HAT Controller
 
 ## Tools and Skills
 
-**Programming:** MATLAB, Python, Arduino, ESP32 programming
-
-**CAD / Design:** SolidWorks, Fusion 360, mechanical design, subsystem integration
-
-**Hardware / Fabrication:** Raspberry Pi, Sense HAT, sensors, 3D printing, laser cutting, cleanroom fabrication
-
+**Programming:** MATLAB, Python, Arduino, ESP32 programming  
+**CAD / Design:** SolidWorks, Fusion 360, mechanical design, subsystem integration  
+**Hardware / Fabrication:** Raspberry Pi, Sense HAT, sensors, 3D printing, laser cutting, cleanroom fabrication  
 **Engineering Areas:** Robotics, aerodynamics, mechatronics, embedded systems, microfabrication, experimental testing
-
-## Built With
-
-- Next.js
-- TypeScript
-- Tailwind CSS
-- GitHub
-- Vercel
-
-## Project Structure
-
-- `app/page.tsx` — Homepage
-- `app/projects/ucla-cnsi/page.tsx` — UCLA CNSI project page
-- `app/projects/vex-robotics/page.tsx` — VEX Robotics project page
-- `app/projects/rc-vehicle-aerodynamics/page.tsx` — RC Vehicle project page
-- `app/projects/broncohacks-posture-device/page.tsx` — BroncoHacks project page
-- `app/projects/folding-knife-design/page.tsx` — Folding Knife project page
-- `app/projects/uas-drone-coding/page.tsx` — UAS Drone Coding project page
-- `app/projects/raspberry-pi-sense-hat/page.tsx` — Raspberry Pi Sense HAT project page
-- `public/resume.pdf` — Resume PDF
 
 ## Contact
 
